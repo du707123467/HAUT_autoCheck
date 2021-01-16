@@ -8,7 +8,7 @@
 - 有任何问题可以提交[issues](https://github.com/YooKing/HAUT_autoCheck/issues/new)
 
 ## 使用方法 
-[进入WIKI](https://github.com/YooKing/HAUT_autoCheck/wiki)
+[进入WIKI](https://github.com/YooKing/HAUT_autoCheck/wiki)111
 - [开始](https://github.com/YooKing/HAUT_autoCheck/wiki#开始)
 - [校内校外转换](https://github.com/YooKing/HAUT_autoCheck/wiki#校内校外转换)
 - [微信通知](https://github.com/YooKing/HAUT_autoCheck/wiki#微信通知)  
